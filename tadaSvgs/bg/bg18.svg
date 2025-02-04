@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 469 469">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #1200ff;
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21 {
+        fill: #ff0;
+      }
+
+      .st22 {
+        filter: url(#nebulaBlur);
+        opacity: .4;
+      }
+
+      .st2 {
+        opacity: .9;
+      }
+
+      .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        opacity: .9;
+      }
+
+      .st4 {
+        opacity: .9;
+      }
+
+      .st5 {
+        opacity: 1;
+      }
+
+      .st6 {
+        opacity: 1;
+      }
+
+      .st7 {
+        opacity: 1;
+      }
+
+      .st8 {
+        opacity: 1;
+      }
+
+      .st9 {
+        opacity: .8;
+      }
+
+      .st10 {
+        opacity: .8;
+      }
+
+      .st11 {
+        opacity: .8;
+      }
+
+      .st12 {
+        opacity: .9;
+      }
+
+      .st13 {
+        opacity: .9;
+      }
+
+      .st14 {
+        opacity: .9;
+      }
+
+      .st15 {
+        opacity: .9;
+      }
+
+      .st16 {
+        opacity: .8;
+      }
+
+      .st17 {
+        opacity: .8;
+      }
+
+      .st18 {
+        opacity: .9;
+      }
+
+      .st19 {
+        opacity: .9;
+      }
+
+      .st20 {
+        opacity: .9;
+      }
+
+      .st21 {
+        opacity: .9;
+      }
+    </style>
+    <filter id="nebulaBlur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="20"/>
+    </filter>
+  </defs>
+  <rect width="469" height="469"/>
+  <g class="st22">
+    <ellipse class="st0" cx="314.2" cy="311.6" rx="41.6" ry="50.7" transform="translate(-115.4 205.5) rotate(-30.9)"/>
+    <ellipse class="st0" cx="234.6" cy="87" rx="76.2" ry="35.3" transform="translate(-11.4 132.8) rotate(-30.9)"/>
+    <ellipse class="st0" cx="176.7" cy="389.2" rx="51.4" ry="44.6" transform="translate(-174.8 145.9) rotate(-30.9)"/>
+  </g>
+  <g>
+    <circle class="st13" cx="27.4" cy="193.8" r=".6"/>
+    <circle class="st4" cx="237.9" cy="373.7" r="1.1"/>
+    <circle class="st17" cx="253.5" cy="347.7" r=".9"/>
+    <circle class="st21" cx="437.7" cy="10.3" r=".9"/>
+    <circle class="st13" cx="64.9" cy="219.2" r=".5"/>
+    <circle class="st16" cx="168.4" cy="189.9" r=".4"/>
+    <circle class="st17" cx="108.3" cy="330.2" r=".9"/>
+    <circle class="st2" cx="343.1" cy="392.3" r="1.1"/>
+    <circle class="st5" cx="344.7" cy="118.6" r=".4"/>
+    <circle class="st14" cx="222.7" cy="149.2" r="1.1"/>
+    <circle class="st1" cx="440.4" cy="61.6" r="1"/>
+    <circle class="st18" cx="331" cy="72.2" r=".3"/>
+    <circle class="st21" cx="7.9" cy="421.1" r=".7"/>
+    <circle class="st3" cx="249.2" cy="174.4" r="1.1"/>
+    <circle class="st2" cx="411.5" cy="430.4" r=".8"/>
+    <circle class="st1" cx="47" cy="79.5" r=".8"/>
+    <circle class="st5" cx="359.8" cy="273" r="1.2"/>
+    <circle class="st6" cx="12.2" cy="268.1" r=".8"/>
+    <circle class="st14" cx="227.2" cy="89.2" r=".9"/>
+    <circle class="st21" cx="431.5" cy="461.5" r=".8"/>
+    <circle class="st11" cx="393.1" cy="446.2" r=".9"/>
+    <circle class="st2" cx="50.7" cy="242" r=".3"/>
+    <circle class="st2" cx="465.3" cy="238.8" r=".9"/>
+    <circle class="st13" cx="236.5" cy="238.5" r=".9"/>
+    <circle class="st14" cx="196.4" cy="58.4" r=".3"/>
+    <circle class="st14" cx="339.6" cy="410.7" r=".8"/>
+    <circle class="st14" cx="179.3" cy="195.6" r="1.2"/>
+    <circle class="st7" cx="37.3" cy="196.3" r="1"/>
+    <circle class="st14" cx="169.5" cy="285.8" r=".9"/>
+    <circle class="st18" cx="310.4" cy="386.2" r=".9"/>
+    <circle class="st17" cx="347.8" cy="146.7" r=".4"/>
+    <circle class="st20" cx="363.6" cy="177" r=".8"/>
+    <circle class="st19" cx="48.1" cy="208.4" r=".6"/>
+    <circle class="st12" cx="171.5" cy="8.7" r=".8"/>
+    <circle class="st7" cx="389.2" cy="352.2" r=".3"/>
+    <circle class="st13" cx="84" cy="443.5" r="1"/>
+    <circle class="st5" cx="398" cy="239.8" r=".9"/>
+    <circle class="st11" cx="263.4" cy="118.3" r=".5"/>
+    <circle class="st17" cx="302.6" cy="218.7" r="1.1"/>
+    <circle class="st19" cx="26.5" cy="75.6" r=".8"/>
+    <circle class="st21" cx="200.1" cy="209.2" r=".5"/>
+    <circle class="st9" cx="311.4" cy="65.1" r="1"/>
+    <circle class="st8" cx="90.2" cy="449.6" r=".5"/>
+    <circle class="st3" cx="219.6" cy="202.7" r=".4"/>
+    <circle class="st19" cx="259.1" cy="121.7" r=".6"/>
+    <circle class="st3" cx="93.3" cy="221.7" r=".6"/>
+    <circle class="st14" cx="237.7" cy="61.8" r="1.2"/>
+    <circle class="st16" cx="123.4" cy="322.3" r=".9"/>
+    <circle class="st14" cx="277.5" cy="270.5" r=".4"/>
+    <circle class="st14" cx="313.9" cy="336.1" r=".8"/>
+    <circle class="st8" cx="362.6" cy="296.5" r="1.2"/>
+    <circle class="st18" cx="319.6" cy="371.2" r="1"/>
+    <circle class="st5" cx="138.8" cy="264.7" r=".4"/>
+    <circle class="st20" cx="329.8" cy="194.9" r="1.1"/>
+    <circle class="st1" cx="113.3" cy="402.3" r=".8"/>
+    <circle class="st13" cx="161.4" cy="462.6" r=".7"/>
+    <circle class="st21" cx="280.6" cy="75.1" r=".9"/>
+    <circle class="st11" cx="29.4" cy="384.2" r=".4"/>
+    <circle class="st5" cx="209" cy="152.8" r=".8"/>
+    <circle class="st4" cx="153.7" cy="429.2" r="1.1"/>
+    <circle class="st20" cx="53.5" cy="19.7" r=".4"/>
+    <circle class="st9" cx="408" cy="141.5" r=".7"/>
+    <circle class="st9" cx="333.2" cy="169" r=".4"/>
+    <circle class="st6" cx="273.2" cy="351.5" r=".5"/>
+    <circle class="st5" cx="205.3" cy="233.1" r=".7"/>
+    <circle class="st14" cx="415" cy="9.5" r=".8"/>
+    <circle class="st9" cx="40.2" cy="4" r=".6"/>
+    <circle class="st13" cx="25" cy="96.3" r=".4"/>
+    <circle class="st18" cx="27.2" cy="313.4" r=".4"/>
+    <circle class="st9" cx="293.4" cy="324" r=".4"/>
+    <circle class="st9" cx="408.6" cy="447.6" r=".7"/>
+    <circle class="st15" cx="166.2" cy="231" r=".8"/>
+    <circle class="st7" cx="13.9" cy="33.7" r=".5"/>
+    <circle class="st19" cx="207.9" cy="282.7" r=".7"/>
+    <circle class="st18" cx="98.9" cy="162.9" r=".7"/>
+    <circle class="st5" cx="446.8" cy="423.7" r=".4"/>
+    <circle class="st15" cx="315.7" cy="100.9" r=".5"/>
+    <circle class="st17" cx="246.3" cy="449.5" r="1"/>
+    <circle class="st15" cx="328.9" cy="37.5" r=".4"/>
+    <circle class="st11" cx="264.1" cy="323.1" r="1.1"/>
+    <circle class="st18" cx="131.4" cy=".9" r="1"/>
+    <circle class="st19" cx="350.6" cy="251.6" r="1.2"/>
+    <circle class="st5" cx="219.8" cy="261.9" r=".5"/>
+    <circle class="st13" cx="321.3" cy="255.4" r=".5"/>
+    <circle class="st5" cx="425.8" cy="430.6" r=".7"/>
+    <circle class="st15" cx="210.4" cy="126.2" r=".5"/>
+    <circle class="st4" cx="52.5" cy="149.2" r=".5"/>
+    <circle class="st20" cx="104.3" cy="161.2" r=".8"/>
+    <circle class="st19" cx="302.3" cy="238.9" r=".3"/>
+    <circle class="st17" cx="78.3" cy="393.3" r=".4"/>
+    <circle class="st11" cx="276.5" cy="79.7" r="1.1"/>
+    <circle class="st11" cx="320.7" cy="192.1" r=".4"/>
+    <circle class="st2" cx="150.6" cy="380.4" r="1.1"/>
+    <circle class="st2" cx="298.7" cy="369.2" r=".8"/>
+    <circle class="st1" cx="288.4" cy="443.5" r=".9"/>
+    <circle class="st21" cx="410.8" cy="295.5" r=".6"/>
+    <circle class="st17" cx="263.9" cy="179.9" r=".8"/>
+    <circle class="st14" cx="282.3" cy="313" r="1.1"/>
+    <circle class="st19" cx="44.9" cy="181.9" r="1.1"/>
+    <circle class="st16" cx="52.2" cy="169.4" r=".8"/>
+    <circle class="st12" cx="418.3" cy="142.1" r="1.2"/>
+    <circle class="st19" cx="80.6" cy="133.2" r=".9"/>
+    <circle class="st11" cx="22" cy="197.9" r="1"/>
+    <circle class="st21" cx="191.7" cy="300.9" r=".6"/>
+    <circle class="st5" cx="234.2" cy="33.3" r=".6"/>
+    <circle class="st16" cx="468.6" cy="8.6" r=".9"/>
+    <circle class="st19" cx="456.5" cy="173.2" r=".7"/>
+    <circle class="st14" cx="294.3" cy="251.6" r=".6"/>
+    <circle class="st13" cx="347.1" cy="142.7" r="1.1"/>
+    <circle class="st12" cx="406.2" cy="142.1" r=".7"/>
+    <circle class="st16" cx="200" cy="127.8" r="1"/>
+    <circle class="st17" cx="436.7" cy="443.5" r=".8"/>
+    <circle class="st5" cx="150.4" cy="57.8" r=".3"/>
+    <circle class="st4" cx="344.3" cy="255.8" r=".4"/>
+    <circle class="st8" cx="201.3" cy="191.5" r=".6"/>
+    <circle class="st4" cx="64" cy="301.8" r=".9"/>
+    <circle class="st2" cx="35.6" cy="323.2" r=".7"/>
+    <circle class="st8" cx="227.2" cy="376.6" r=".6"/>
+    <circle class="st11" cx="302.8" cy="279.7" r=".8"/>
+    <circle class="st8" cx="196.3" cy="231.4" r=".9"/>
+    <circle class="st11" cx="219.8" cy="446.3" r=".6"/>
+    <circle class="st5" cx="183.1" cy="108.4" r=".6"/>
+    <circle class="st7" cx="422.2" cy="37" r=".5"/>
+    <circle class="st4" cx="430.1" cy="347.8" r="1.2"/>
+    <circle class="st21" cx="450.9" cy="112.7" r=".6"/>
+    <circle class="st8" cx="186.5" cy="203.1" r=".5"/>
+    <circle class="st15" cx="124.5" cy="108.6" r=".9"/>
+    <circle class="st11" cx="60.2" cy="450.1" r="1"/>
+    <circle class="st2" cx="235.6" cy="105.9" r="1"/>
+    <circle class="st4" cx="309.4" cy="139.6" r=".9"/>
+    <circle class="st20" cx="247.7" cy="117.8" r=".8"/>
+    <circle class="st16" cx="49.3" cy="19" r=".4"/>
+    <circle class="st15" cx="154.8" cy="293.1" r=".7"/>
+    <circle class="st12" cx="288.8" cy="448" r=".5"/>
+    <circle class="st15" cx="1.6" cy="421.4" r=".4"/>
+    <circle class="st18" cx="345.9" cy="71.2" r=".5"/>
+    <circle class="st4" cx="433.2" cy="312.4" r="1.2"/>
+    <circle class="st21" cx="144.9" cy="191.5" r="1"/>
+    <circle class="st10" cx="217" cy="142.8" r=".5"/>
+    <circle class="st20" cx="162.7" cy="101.5" r="1.1"/>
+    <path class="st10" d="M256.3,283.7c.5,0,.9.4.9.9s-.4.9-.9.9-.9-.4-.9-.9.4-.9.9-.9Z"/>
+    <circle class="st4" cx="203.1" cy="140.2" r=".9"/>
+    <circle class="st15" cx="404.4" cy="99.6" r=".4"/>
+    <circle class="st12" cx="361.1" cy="25.8" r=".3"/>
+    <circle class="st4" cx="260.2" cy="264.9" r="1"/>
+    <circle class="st17" cx="34.1" cy="139.7" r=".7"/>
+    <circle class="st17" cx="15.9" cy="356.6" r=".9"/>
+    <circle class="st9" cx="20.8" cy="35" r="1.2"/>
+    <circle class="st7" cx="262.1" cy="185.5" r="1"/>
+    <circle class="st18" cx="147.4" cy="61.7" r=".9"/>
+    <circle class="st15" cx="373" cy="413.5" r="1"/>
+    <circle class="st11" cx="91.7" cy="83.6" r=".9"/>
+    <circle class="st9" cx="67.6" cy="309.2" r=".3"/>
+    <circle class="st2" cx="115.9" cy="180.9" r=".3"/>
+    <circle class="st7" cx="315.1" cy="315.4" r=".6"/>
+    <circle class="st17" cx="282.5" cy="445" r=".7"/>
+    <circle class="st8" cx="35.2" cy="320.6" r=".6"/>
+    <circle class="st5" cx="279.6" cy="402.3" r=".8"/>
+    <circle class="st18" cx="287.2" cy="69.8" r=".8"/>
+    <circle class="st5" cx="170.3" cy="134.5" r=".7"/>
+    <circle class="st8" cx="13.1" cy="22.5" r="1"/>
+    <circle class="st3" cx="350.8" cy="318.5" r="1"/>
+    <circle class="st4" cx="59.4" cy="288.3" r="1.2"/>
+    <circle class="st10" cx="296.2" cy="250.5" r=".6"/>
+    <circle class="st11" cx="281" cy="345.7" r=".9"/>
+    <circle class="st2" cx="101.1" cy="171.6" r=".5"/>
+    <circle class="st17" cx="428.1" cy="135.1" r=".6"/>
+    <circle class="st5" cx="329.6" cy="289.3" r="1"/>
+    <circle class="st16" cx="393.6" cy="458.9" r=".4"/>
+    <circle class="st7" cx=".9" cy="451.8" r=".7"/>
+    <circle class="st2" cx="177.8" cy="112.8" r=".6"/>
+    <circle class="st14" cx="24.4" cy="121.1" r=".8"/>
+    <circle class="st3" cx="394.8" cy="168.8" r="1.1"/>
+    <circle class="st9" cx="392.5" cy="322.2" r="1.1"/>
+    <circle class="st17" cx="34.6" cy="112.9" r=".5"/>
+    <circle class="st6" cx="286.2" cy="262" r=".4"/>
+    <circle class="st8" cx="413.5" cy="251.6" r=".6"/>
+    <circle class="st18" cx="396.1" cy="387.5" r=".3"/>
+    <circle class="st16" cx="142" cy="376.3" r=".9"/>
+    <circle class="st5" cx="181.4" cy="418.5" r="1.2"/>
+    <circle class="st11" cx="66.9" cy="252.8" r=".8"/>
+    <circle class="st11" cx="289.3" cy="165.5" r=".5"/>
+    <circle class="st5" cx="320.1" cy="433" r=".8"/>
+    <circle class="st8" cx="222.5" cy="435.4" r=".3"/>
+    <circle class="st6" cx="118.9" cy="312.5" r=".7"/>
+    <circle class="st3" cx="405.3" cy="306.6" r=".8"/>
+    <circle class="st17" cx="6.9" cy="86.9" r="1.2"/>
+    <circle class="st2" cx="307.7" cy="55.3" r="1.1"/>
+    <circle class="st18" cx="150.8" cy="168.3" r=".4"/>
+    <circle class="st20" cx="160.4" cy="191.7" r=".3"/>
+    <circle class="st11" cx="230.2" cy="78.8" r=".3"/>
+    <circle class="st13" cx="330.2" cy="405.9" r=".6"/>
+    <circle class="st18" cx="226.7" cy="92" r=".4"/>
+    <circle class="st19" cx="222.3" cy="122" r=".5"/>
+    <circle class="st18" cx="56.7" cy="423.5" r=".9"/>
+    <circle class="st14" cx="272.5" cy="456.3" r="1.1"/>
+    <circle class="st12" cx="251.9" cy="178" r=".7"/>
+    <circle class="st21" cx="390.4" cy="217.7" r=".8"/>
+    <circle class="st1" cx="151.2" cy="366.4" r=".7"/>
+    <circle class="st8" cx="401" cy="333.5" r="1"/>
+    <circle class="st17" cx="378.8" cy="352.8" r=".7"/>
+    <circle class="st2" cx="188.4" cy="211.8" r=".7"/>
+    <circle class="st21" cx="92.5" cy=".3" r="1"/>
+    <circle class="st18" cx="365.9" cy="216.1" r="1"/>
+    <circle class="st10" cx="261.7" cy="335.7" r=".5"/>
+    <circle class="st4" cx="46.7" cy="259.1" r=".8"/>
+    <circle class="st18" cx="293.3" cy="284" r=".4"/>
+    <circle class="st18" cx="39.5" cy="452" r=".4"/>
+    <circle class="st5" cx="238.6" cy="126.8" r=".7"/>
+    <circle class="st14" cx="121.3" cy="239.4" r="1"/>
+    <circle class="st8" cx="439.5" cy="9.6" r=".9"/>
+    <circle class="st16" cx="440.3" cy="414.1" r="1"/>
+    <circle class="st11" cx="133.5" cy="385" r=".9"/>
+    <circle class="st7" cx="411.9" cy="83.7" r=".7"/>
+    <circle class="st11" cx="317.6" cy="116.5" r=".7"/>
+    <circle class="st8" cx="219.2" cy="267.9" r=".7"/>
+    <circle class="st11" cx="265.1" cy="168.3" r=".9"/>
+    <circle class="st7" cx="116.9" cy="448.6" r=".5"/>
+    <circle class="st7" cx="360.3" cy="227.1" r=".3"/>
+    <circle class="st6" cx="449.7" cy="74.4" r="1.2"/>
+    <circle class="st18" cx="106.3" cy="18.2" r=".7"/>
+    <circle class="st12" cx="184.7" cy="282.6" r=".9"/>
+    <circle class="st5" cx="381.6" cy="211.7" r=".8"/>
+    <circle class="st19" cx="447" cy="94.1" r=".6"/>
+    <circle class="st20" cx="313.7" cy="428.6" r="1"/>
+    <circle class="st13" cx="229.4" cy="59.4" r=".5"/>
+    <circle class="st20" cx="449.2" cy="427.9" r=".6"/>
+    <circle class="st2" cx="381.6" cy="27.1" r="1.1"/>
+    <circle class="st4" cx="426.2" cy="332.9" r=".5"/>
+    <circle class="st13" cx="169.7" cy="107.7" r=".6"/>
+    <circle class="st7" cx="91.7" cy="257" r=".4"/>
+    <circle class="st17" cx="383.3" cy="427.1" r="1.1"/>
+    <circle class="st11" cx="67.4" cy="42.3" r=".3"/>
+    <circle class="st21" cx="326.5" cy="127" r=".4"/>
+    <circle class="st14" cx="216.1" cy="305.1" r=".6"/>
+    <circle class="st20" cx="37.5" cy="139.3" r="1"/>
+    <circle class="st13" cx="271.9" cy="18.5" r=".3"/>
+    <circle class="st1" cx="124.8" cy="449.3" r=".3"/>
+    <circle class="st18" cx="67.5" cy="362.6" r="1.2"/>
+    <circle class="st19" cx="177.4" cy="445.1" r=".8"/>
+    <circle class="st20" cx="187.8" cy="45.8" r=".5"/>
+    <circle class="st8" cx="396.9" cy="291.5" r=".8"/>
+    <circle class="st4" cx="252.8" cy="445.3" r=".5"/>
+    <circle class="st14" cx="46.1" cy="5.8" r="1.2"/>
+    <circle class="st7" cx="345.2" cy="48.6" r="1"/>
+    <circle class="st2" cx="338.2" cy="380.3" r=".6"/>
+    <circle class="st2" cx="119.4" cy="369.5" r=".9"/>
+    <circle class="st12" cx="395.5" cy="197.2" r=".3"/>
+    <path class="st19" d="M467.9,255.7c.4,0,.7.3.7.7s-.3.7-.7.7-.7-.3-.7-.7.3-.7.7-.7Z"/>
+    <circle class="st13" cx="240.3" cy="190.8" r="1"/>
+  </g>
+</svg>

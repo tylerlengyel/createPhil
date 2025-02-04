@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NFT Trait Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #333;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      text-align: center;
+      padding: 10px 0;
+    }
+    #tabs {
+      text-align: center;
+      background-color: #444;
+      padding: 10px 0;
+    }
+    .tab {
+      display: inline-block;
+      padding: 10px 20px;
+      cursor: pointer;
+      background-color: #555;
+      margin: 0 2px;
+    }
+    .tab.active {
+      background-color: #777;
+    }
+    #trait-container {
+      padding: 20px;
+      text-align: center;
+    }
+    .preview {
+      width: 420px;
+      height: 420px;
+      border: 1px solid #ccc;
+      background-color: #222;
+      margin: 20px auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    button {
+      padding: 10px 15px;
+      margin: 5px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>NFT Trait Generator</h1>
+  
+  <!-- Tab Navigation -->
+  <div id="tabs">
+    <span class="tab active" data-trait="bg">Background</span>
+    <span class="tab" data-trait="color">Color</span>
+    <span class="tab" data-trait="wings">Wings</span>
+    <span class="tab" data-trait="phil">Phil</span>
+    <span class="tab" data-trait="spikes">Spikes</span>
+    <span class="tab" data-trait="eyes">Eyes</span>
+    <span class="tab" data-trait="top">Top</span>
+    <span class="tab" data-trait="teeth">Teeth</span>
+    <span class="tab" data-trait="nose">Nose</span>
+  </div>
+  
+  <!-- Trait Panel -->
+  <div id="trait-container">
+    <h2 id="trait-title">Background Trait</h2>
+    <div id="preview" class="preview">
+      <p>Preview will appear here...</p>
+    </div>
+    <button id="next-btn">Next</button>
+    <button id="save-btn">Save</button>
+  </div>
+  
+  <!-- Our main JS file as an ES module -->
+  <script type="module" src="generateTrait.js"></script>
+</body>
+</html>

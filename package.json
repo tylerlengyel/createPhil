@@ -1,0 +1,15 @@
+{
+  "name": "my-trait-generator",
+  "version": "1.0.0",
+  "description": "Generating Phils final form.",
+  "main": "generateTrait.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^1.0.0",
+    "express": "^4.21.2",
+    "open": "^10.1.0"
+  }
+}

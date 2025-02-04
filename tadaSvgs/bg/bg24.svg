@@ -1,0 +1,2075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 469 469">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        filter: url(#noise0);
+        opacity: .2;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st61, .st62, .st63, .st64, .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72, .st73, .st74, .st75, .st76, .st77, .st78, .st79, .st80, .st81, .st82, .st83, .st84, .st85, .st86, .st87, .st88, .st89, .st90, .st91, .st92, .st93, .st94, .st95, .st96, .st97, .st98, .st99, .st100, .st101, .st102, .st103, .st104, .st105, .st106, .st107, .st108, .st109, .st110, .st111, .st112, .st113, .st114, .st115, .st116, .st117, .st118, .st119, .st120, .st121, .st122, .st123, .st124, .st125, .st126, .st127, .st128, .st129, .st130, .st131, .st132, .st133, .st134, .st135, .st136, .st137, .st138, .st139, .st140, .st141, .st142, .st143, .st144, .st145, .st146, .st147, .st148, .st149, .st150, .st151, .st152, .st153, .st154, .st155, .st156, .st157, .st158, .st159, .st160, .st161, .st162, .st163, .st164, .st165, .st166, .st167, .st168, .st169, .st170, .st171, .st172, .st173, .st174, .st175, .st176, .st177, .st178, .st179, .st180, .st181, .st182, .st183, .st184, .st185, .st186, .st187, .st188, .st189, .st190, .st191, .st192, .st193, .st194, .st195, .st196, .st197, .st198, .st199, .st200, .st201, .st202, .st203, .st204, .st205, .st206, .st207, .st208, .st209, .st210, .st211, .st212, .st213, .st214, .st215, .st216, .st217, .st218, .st219, .st220, .st221, .st222, .st223, .st224, .st225, .st226, .st227, .st228, .st229, .st230, .st231, .st232, .st233, .st234, .st235, .st236, .st237, .st238, .st239, .st240, .st241, .st242, .st243, .st244, .st245, .st246, .st247, .st248, .st249, .st250, .st251, .st252, .st253, .st254, .st255, .st256, .st257, .st258, .st259, .st260, .st261, .st262, .st263, .st264, .st265, .st266, .st267, .st268, .st269, .st270, .st271, .st272, .st273, .st274, .st275, .st276, .st277, .st278, .st279, .st280, .st281, .st282, .st283, .st284, .st285, .st286, .st287, .st288, .st289, .st290, .st291, .st292, .st293, .st294, .st295, .st296, .st297, .st298, .st299, .st300, .st301, .st302, .st303, .st304, .st305, .st306, .st307, .st308, .st309, .st310, .st311, .st312, .st313, .st314, .st315, .st316, .st317, .st318, .st319, .st320, .st321, .st322, .st323, .st324, .st325, .st326, .st327, .st328, .st329, .st330, .st331, .st332, .st333, .st334, .st335, .st336, .st337, .st338, .st339, .st340, .st341, .st342, .st343, .st344, .st345, .st346, .st347, .st348, .st349, .st350, .st351, .st352, .st353, .st354, .st355, .st356, .st357, .st358, .st359, .st360, .st361, .st362, .st363, .st364, .st365, .st366, .st367, .st368, .st369, .st370, .st371, .st372, .st373, .st374, .st375, .st376, .st377, .st378, .st379, .st380, .st381, .st382, .st383, .st384, .st385, .st386, .st387, .st388 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        filter: url(#noise2);
+        opacity: .3;
+      }
+
+      .st2 {
+        filter: url(#noise1);
+        opacity: .3;
+      }
+
+      .st3 {
+        filter: url(#noise3);
+        opacity: .2;
+      }
+
+      .st389 {
+        fill: #000810;
+      }
+
+      .st4 {
+        opacity: .4;
+      }
+
+      .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st61, .st62, .st63, .st64, .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72, .st73, .st74, .st75, .st76, .st77, .st78, .st79, .st80, .st81, .st82, .st83, .st84, .st85, .st86, .st87, .st88, .st89, .st90, .st91, .st92, .st93, .st94, .st95, .st96, .st97, .st98, .st99, .st100, .st101, .st102, .st103, .st104, .st105, .st106, .st107, .st108, .st109, .st110, .st111, .st112, .st113, .st114, .st115, .st116, .st117, .st118, .st119, .st120, .st121, .st122, .st123, .st124, .st125, .st126, .st127, .st128, .st129, .st130, .st131, .st132, .st133, .st134, .st135, .st136, .st137, .st138, .st139, .st140, .st141, .st142, .st143, .st144, .st145, .st146, .st147, .st148, .st149, .st150, .st151, .st152, .st153, .st154, .st155, .st156, .st157, .st158, .st159, .st160, .st161, .st162, .st163, .st164, .st165, .st166, .st167, .st168, .st169, .st170, .st171, .st172, .st173, .st174, .st175, .st176, .st177, .st178, .st179, .st180, .st181, .st182, .st183, .st184, .st185, .st186, .st187, .st188, .st189, .st190, .st191, .st192, .st193, .st194, .st195, .st196, .st197, .st198, .st199, .st200, .st201, .st202, .st203, .st204, .st205, .st206, .st207, .st208, .st209, .st210, .st211, .st212, .st213, .st214, .st215, .st216, .st217, .st218, .st219, .st220, .st221, .st222, .st223, .st224, .st225, .st226, .st227, .st228, .st229, .st230, .st231, .st232, .st233, .st234, .st235, .st236, .st237, .st238, .st239, .st240, .st241, .st242, .st243, .st244, .st245, .st246, .st247, .st248, .st249, .st250, .st251, .st252, .st253, .st254, .st255, .st256, .st257, .st258, .st259, .st260, .st261, .st262, .st263, .st264, .st265, .st266, .st267, .st268, .st269, .st270, .st271, .st272, .st273, .st274, .st275, .st276, .st277, .st278, .st279, .st280, .st281, .st282, .st283, .st284, .st285, .st286, .st287, .st288, .st289, .st290, .st291, .st292, .st293, .st294, .st295, .st296, .st297, .st298, .st299, .st300, .st301, .st302, .st303, .st304, .st305, .st306, .st307, .st308, .st309, .st310, .st311, .st312, .st313, .st314, .st315, .st316, .st317, .st318, .st319, .st320, .st321, .st322, .st323, .st324, .st325, .st326, .st327, .st328, .st329, .st330, .st331, .st332, .st333, .st334, .st335, .st336, .st337, .st338, .st339, .st340, .st341, .st342, .st343, .st344, .st345, .st346, .st347, .st348, .st349, .st350, .st351, .st352, .st353, .st354, .st355, .st356, .st357, .st358, .st359, .st360, .st361, .st362, .st363, .st364, .st365, .st366, .st367, .st368, .st369, .st370, .st371, .st372, .st373, .st374, .st375, .st376, .st377, .st378, .st379, .st380, .st381, .st382, .st383, .st384 {
+        fill: #ddd7d7;
+      }
+
+      .st5 {
+        opacity: .4;
+      }
+
+      .st6 {
+        opacity: .4;
+      }
+
+      .st7 {
+        opacity: .4;
+      }
+
+      .st8 {
+        opacity: .4;
+      }
+
+      .st9 {
+        opacity: .4;
+      }
+
+      .st10 {
+        opacity: .4;
+      }
+
+      .st11 {
+        opacity: .4;
+      }
+
+      .st12 {
+        opacity: .4;
+      }
+
+      .st13 {
+        opacity: .4;
+      }
+
+      .st14 {
+        opacity: .4;
+      }
+
+      .st15 {
+        opacity: .4;
+      }
+
+      .st16 {
+        opacity: .4;
+      }
+
+      .st17 {
+        opacity: .4;
+      }
+
+      .st18 {
+        opacity: .4;
+      }
+
+      .st19 {
+        opacity: .4;
+      }
+
+      .st20 {
+        opacity: .4;
+      }
+
+      .st21 {
+        opacity: .4;
+      }
+
+      .st22 {
+        opacity: .4;
+      }
+
+      .st23 {
+        opacity: .4;
+      }
+
+      .st24 {
+        opacity: .4;
+      }
+
+      .st25 {
+        opacity: .4;
+      }
+
+      .st26 {
+        opacity: .5;
+      }
+
+      .st27 {
+        opacity: .5;
+      }
+
+      .st28 {
+        opacity: .5;
+      }
+
+      .st29 {
+        opacity: .5;
+      }
+
+      .st30 {
+        opacity: .5;
+      }
+
+      .st31 {
+        opacity: .5;
+      }
+
+      .st32 {
+        opacity: .5;
+      }
+
+      .st33 {
+        opacity: .4;
+      }
+
+      .st34 {
+        opacity: .4;
+      }
+
+      .st35 {
+        opacity: .4;
+      }
+
+      .st36 {
+        opacity: .4;
+      }
+
+      .st37 {
+        opacity: .3;
+      }
+
+      .st38 {
+        opacity: .3;
+      }
+
+      .st39 {
+        opacity: .3;
+      }
+
+      .st40 {
+        opacity: .3;
+      }
+
+      .st41 {
+        opacity: .3;
+      }
+
+      .st42 {
+        opacity: .3;
+      }
+
+      .st43 {
+        opacity: .3;
+      }
+
+      .st44 {
+        opacity: .7;
+      }
+
+      .st45 {
+        opacity: .7;
+      }
+
+      .st46 {
+        opacity: .6;
+      }
+
+      .st47 {
+        opacity: .6;
+      }
+
+      .st48 {
+        opacity: .4;
+      }
+
+      .st49 {
+        opacity: .4;
+      }
+
+      .st50 {
+        opacity: .4;
+      }
+
+      .st51 {
+        opacity: .3;
+      }
+
+      .st52 {
+        opacity: .3;
+      }
+
+      .st53 {
+        opacity: .3;
+      }
+
+      .st54 {
+        opacity: .4;
+      }
+
+      .st55 {
+        opacity: .4;
+      }
+
+      .st56 {
+        opacity: .4;
+      }
+
+      .st57 {
+        opacity: .4;
+      }
+
+      .st58 {
+        opacity: .4;
+      }
+
+      .st59 {
+        opacity: .4;
+      }
+
+      .st60 {
+        opacity: .4;
+      }
+
+      .st61 {
+        opacity: .4;
+      }
+
+      .st62 {
+        opacity: .4;
+      }
+
+      .st63 {
+        opacity: .4;
+      }
+
+      .st64 {
+        opacity: .4;
+      }
+
+      .st65 {
+        opacity: .4;
+      }
+
+      .st66 {
+        opacity: .4;
+      }
+
+      .st67 {
+        opacity: .4;
+      }
+
+      .st68 {
+        opacity: .4;
+      }
+
+      .st69 {
+        opacity: .4;
+      }
+
+      .st70 {
+        opacity: .4;
+      }
+
+      .st71 {
+        opacity: .8;
+      }
+
+      .st72 {
+        opacity: .8;
+      }
+
+      .st73 {
+        opacity: .8;
+      }
+
+      .st74 {
+        opacity: .8;
+      }
+
+      .st75 {
+        opacity: .8;
+      }
+
+      .st76 {
+        opacity: .8;
+      }
+
+      .st77 {
+        opacity: .8;
+      }
+
+      .st78 {
+        opacity: .8;
+      }
+
+      .st79 {
+        opacity: .8;
+      }
+
+      .st80 {
+        opacity: .7;
+      }
+
+      .st81 {
+        opacity: .7;
+      }
+
+      .st82 {
+        opacity: .7;
+      }
+
+      .st83 {
+        opacity: .7;
+      }
+
+      .st84 {
+        opacity: .7;
+      }
+
+      .st85 {
+        opacity: .7;
+      }
+
+      .st86 {
+        opacity: .7;
+      }
+
+      .st87 {
+        opacity: .7;
+      }
+
+      .st88 {
+        opacity: .7;
+      }
+
+      .st89 {
+        opacity: .7;
+      }
+
+      .st90 {
+        opacity: .7;
+      }
+
+      .st91 {
+        opacity: .7;
+      }
+
+      .st92 {
+        opacity: .7;
+      }
+
+      .st93 {
+        opacity: .7;
+      }
+
+      .st94 {
+        opacity: .7;
+      }
+
+      .st95 {
+        opacity: .7;
+      }
+
+      .st96 {
+        opacity: .7;
+      }
+
+      .st97 {
+        opacity: .7;
+      }
+
+      .st98 {
+        opacity: .7;
+      }
+
+      .st99 {
+        opacity: .7;
+      }
+
+      .st100 {
+        opacity: .7;
+      }
+
+      .st101 {
+        opacity: .7;
+      }
+
+      .st102 {
+        opacity: .7;
+      }
+
+      .st103 {
+        opacity: .7;
+      }
+
+      .st104 {
+        opacity: .7;
+      }
+
+      .st105 {
+        opacity: .7;
+      }
+
+      .st106 {
+        opacity: .7;
+      }
+
+      .st107 {
+        opacity: .7;
+      }
+
+      .st108 {
+        opacity: .7;
+      }
+
+      .st109 {
+        opacity: .7;
+      }
+
+      .st110 {
+        opacity: .7;
+      }
+
+      .st111 {
+        opacity: .7;
+      }
+
+      .st112 {
+        opacity: .7;
+      }
+
+      .st113 {
+        opacity: .7;
+      }
+
+      .st114 {
+        opacity: .7;
+      }
+
+      .st115 {
+        opacity: .7;
+      }
+
+      .st116 {
+        opacity: .7;
+      }
+
+      .st117 {
+        opacity: .7;
+      }
+
+      .st118 {
+        opacity: .7;
+      }
+
+      .st119 {
+        opacity: .7;
+      }
+
+      .st120 {
+        opacity: .7;
+      }
+
+      .st121 {
+        opacity: .7;
+      }
+
+      .st122 {
+        opacity: .7;
+      }
+
+      .st123 {
+        opacity: .7;
+      }
+
+      .st124 {
+        opacity: .7;
+      }
+
+      .st125 {
+        opacity: .8;
+      }
+
+      .st126 {
+        opacity: .8;
+      }
+
+      .st127 {
+        opacity: .8;
+      }
+
+      .st128 {
+        opacity: .8;
+      }
+
+      .st129 {
+        opacity: .8;
+      }
+
+      .st130 {
+        opacity: .8;
+      }
+
+      .st131 {
+        opacity: .8;
+      }
+
+      .st132 {
+        opacity: .8;
+      }
+
+      .st133 {
+        opacity: .7;
+      }
+
+      .st134 {
+        opacity: .7;
+      }
+
+      .st135 {
+        opacity: .7;
+      }
+
+      .st136 {
+        opacity: .7;
+      }
+
+      .st137 {
+        opacity: .7;
+      }
+
+      .st138 {
+        opacity: .7;
+      }
+
+      .st139 {
+        opacity: .7;
+      }
+
+      .st140 {
+        opacity: .7;
+      }
+
+      .st141 {
+        opacity: .7;
+      }
+
+      .st142 {
+        opacity: .7;
+      }
+
+      .st143 {
+        opacity: .7;
+      }
+
+      .st144 {
+        opacity: .7;
+      }
+
+      .st145 {
+        opacity: .7;
+      }
+
+      .st146 {
+        opacity: .7;
+      }
+
+      .st147 {
+        opacity: .7;
+      }
+
+      .st148 {
+        opacity: .8;
+      }
+
+      .st149 {
+        opacity: .8;
+      }
+
+      .st150 {
+        opacity: .8;
+      }
+
+      .st151 {
+        opacity: .8;
+      }
+
+      .st152 {
+        opacity: .8;
+      }
+
+      .st153 {
+        opacity: .8;
+      }
+
+      .st154 {
+        opacity: .8;
+      }
+
+      .st155 {
+        opacity: .8;
+      }
+
+      .st156 {
+        opacity: .8;
+      }
+
+      .st157 {
+        opacity: .8;
+      }
+
+      .st158 {
+        opacity: .8;
+      }
+
+      .st159 {
+        opacity: .8;
+      }
+
+      .st160 {
+        opacity: .8;
+      }
+
+      .st161 {
+        opacity: .7;
+      }
+
+      .st162 {
+        opacity: .7;
+      }
+
+      .st163 {
+        opacity: .7;
+      }
+
+      .st164 {
+        opacity: .7;
+      }
+
+      .st165 {
+        opacity: .7;
+      }
+
+      .st166 {
+        opacity: .7;
+      }
+
+      .st167 {
+        opacity: .7;
+      }
+
+      .st168 {
+        opacity: .3;
+      }
+
+      .st169 {
+        opacity: .3;
+      }
+
+      .st170 {
+        opacity: .3;
+      }
+
+      .st171 {
+        opacity: .3;
+      }
+
+      .st172 {
+        opacity: .3;
+      }
+
+      .st173 {
+        opacity: .3;
+      }
+
+      .st174 {
+        opacity: .3;
+      }
+
+      .st175 {
+        opacity: .3;
+      }
+
+      .st176 {
+        opacity: .3;
+      }
+
+      .st177 {
+        opacity: .3;
+      }
+
+      .st178 {
+        opacity: .3;
+      }
+
+      .st179 {
+        opacity: .3;
+      }
+
+      .st180 {
+        opacity: .3;
+      }
+
+      .st181 {
+        opacity: .3;
+      }
+
+      .st182 {
+        opacity: .3;
+      }
+
+      .st183 {
+        opacity: .3;
+      }
+
+      .st184 {
+        opacity: .3;
+      }
+
+      .st185 {
+        opacity: .3;
+      }
+
+      .st186 {
+        opacity: .3;
+      }
+
+      .st187 {
+        opacity: .3;
+      }
+
+      .st188 {
+        opacity: .3;
+      }
+
+      .st189 {
+        opacity: .3;
+      }
+
+      .st190 {
+        opacity: .3;
+      }
+
+      .st191 {
+        opacity: .3;
+      }
+
+      .st192 {
+        opacity: .3;
+      }
+
+      .st193 {
+        opacity: .3;
+      }
+
+      .st194 {
+        opacity: .3;
+      }
+
+      .st195 {
+        opacity: .3;
+      }
+
+      .st196 {
+        opacity: .3;
+      }
+
+      .st197 {
+        opacity: .3;
+      }
+
+      .st198 {
+        opacity: .3;
+      }
+
+      .st199 {
+        opacity: .3;
+      }
+
+      .st200 {
+        opacity: .3;
+      }
+
+      .st201 {
+        opacity: .3;
+      }
+
+      .st202 {
+        opacity: .3;
+      }
+
+      .st203 {
+        opacity: .3;
+      }
+
+      .st204 {
+        opacity: .3;
+      }
+
+      .st205 {
+        opacity: .3;
+      }
+
+      .st206 {
+        opacity: .3;
+      }
+
+      .st207 {
+        opacity: .3;
+      }
+
+      .st208 {
+        opacity: .3;
+      }
+
+      .st209 {
+        opacity: .3;
+      }
+
+      .st210 {
+        opacity: .3;
+      }
+
+      .st211 {
+        opacity: .3;
+      }
+
+      .st212 {
+        opacity: .3;
+      }
+
+      .st213 {
+        opacity: .3;
+      }
+
+      .st214 {
+        opacity: .3;
+      }
+
+      .st215 {
+        opacity: .3;
+      }
+
+      .st216 {
+        opacity: .3;
+      }
+
+      .st217 {
+        opacity: .3;
+      }
+
+      .st218 {
+        opacity: .2;
+      }
+
+      .st219 {
+        opacity: .2;
+      }
+
+      .st220 {
+        opacity: .2;
+      }
+
+      .st221 {
+        opacity: .2;
+      }
+
+      .st222 {
+        opacity: .2;
+      }
+
+      .st223 {
+        opacity: .2;
+      }
+
+      .st224 {
+        opacity: .2;
+      }
+
+      .st225 {
+        opacity: .3;
+      }
+
+      .st226 {
+        opacity: .3;
+      }
+
+      .st227 {
+        opacity: .3;
+      }
+
+      .st228 {
+        opacity: .3;
+      }
+
+      .st229 {
+        opacity: .2;
+      }
+
+      .st230 {
+        opacity: .2;
+      }
+
+      .st231 {
+        opacity: .2;
+      }
+
+      .st232 {
+        opacity: .2;
+      }
+
+      .st233 {
+        opacity: .2;
+      }
+
+      .st234 {
+        opacity: .2;
+      }
+
+      .st235 {
+        opacity: .3;
+      }
+
+      .st236 {
+        opacity: .3;
+      }
+
+      .st237 {
+        opacity: .3;
+      }
+
+      .st238 {
+        opacity: .3;
+      }
+
+      .st239 {
+        opacity: .3;
+      }
+
+      .st240 {
+        opacity: .3;
+      }
+
+      .st241 {
+        opacity: .3;
+      }
+
+      .st242 {
+        opacity: .2;
+      }
+
+      .st243 {
+        opacity: .5;
+      }
+
+      .st244 {
+        opacity: .6;
+      }
+
+      .st245 {
+        opacity: .6;
+      }
+
+      .st246 {
+        opacity: .6;
+      }
+
+      .st247 {
+        opacity: .6;
+      }
+
+      .st248 {
+        opacity: .6;
+      }
+
+      .st249 {
+        opacity: .6;
+      }
+
+      .st250 {
+        opacity: .6;
+      }
+
+      .st251 {
+        opacity: .6;
+      }
+
+      .st252 {
+        opacity: .6;
+      }
+
+      .st253 {
+        opacity: .5;
+      }
+
+      .st254 {
+        opacity: .5;
+      }
+
+      .st255 {
+        opacity: .6;
+      }
+
+      .st256 {
+        opacity: .6;
+      }
+
+      .st257 {
+        opacity: .6;
+      }
+
+      .st258 {
+        opacity: .6;
+      }
+
+      .st259 {
+        opacity: .6;
+      }
+
+      .st260 {
+        opacity: .6;
+      }
+
+      .st261 {
+        opacity: .6;
+      }
+
+      .st262 {
+        opacity: .6;
+      }
+
+      .st263 {
+        opacity: .6;
+      }
+
+      .st264 {
+        opacity: .6;
+      }
+
+      .st265 {
+        opacity: .6;
+      }
+
+      .st266 {
+        opacity: .6;
+      }
+
+      .st267 {
+        opacity: .6;
+      }
+
+      .st268 {
+        opacity: .6;
+      }
+
+      .st269 {
+        opacity: .6;
+      }
+
+      .st270 {
+        opacity: .6;
+      }
+
+      .st271 {
+        opacity: .6;
+      }
+
+      .st272 {
+        opacity: .6;
+      }
+
+      .st273 {
+        opacity: .6;
+      }
+
+      .st274 {
+        opacity: .5;
+      }
+
+      .st275 {
+        opacity: .6;
+      }
+
+      .st276 {
+        opacity: .6;
+      }
+
+      .st277 {
+        opacity: .6;
+      }
+
+      .st278 {
+        opacity: .6;
+      }
+
+      .st279 {
+        opacity: .6;
+      }
+
+      .st280 {
+        opacity: .6;
+      }
+
+      .st281 {
+        opacity: .6;
+      }
+
+      .st282 {
+        opacity: .6;
+      }
+
+      .st283 {
+        opacity: .6;
+      }
+
+      .st284 {
+        opacity: .6;
+      }
+
+      .st285 {
+        opacity: .6;
+      }
+
+      .st286 {
+        opacity: .6;
+      }
+
+      .st287 {
+        opacity: .6;
+      }
+
+      .st288 {
+        opacity: .6;
+      }
+
+      .st289 {
+        opacity: .6;
+      }
+
+      .st290 {
+        opacity: .6;
+      }
+
+      .st291 {
+        opacity: .6;
+      }
+
+      .st292 {
+        opacity: .6;
+      }
+
+      .st293 {
+        opacity: .6;
+      }
+
+      .st294 {
+        opacity: .6;
+      }
+
+      .st295 {
+        opacity: .7;
+      }
+
+      .st296 {
+        opacity: .6;
+      }
+
+      .st297 {
+        opacity: .7;
+      }
+
+      .st298 {
+        opacity: .7;
+      }
+
+      .st299 {
+        opacity: .7;
+      }
+
+      .st300 {
+        opacity: .7;
+      }
+
+      .st301 {
+        opacity: .7;
+      }
+
+      .st302 {
+        opacity: .7;
+      }
+
+      .st303 {
+        opacity: .7;
+      }
+
+      .st304 {
+        opacity: .7;
+      }
+
+      .st305 {
+        opacity: .7;
+      }
+
+      .st306 {
+        opacity: .6;
+      }
+
+      .st307 {
+        opacity: .6;
+      }
+
+      .st308 {
+        opacity: .6;
+      }
+
+      .st309 {
+        opacity: .6;
+      }
+
+      .st310 {
+        opacity: .6;
+      }
+
+      .st311 {
+        opacity: .6;
+      }
+
+      .st312 {
+        opacity: .6;
+      }
+
+      .st313 {
+        opacity: .6;
+      }
+
+      .st314 {
+        opacity: .5;
+      }
+
+      .st315 {
+        opacity: .5;
+      }
+
+      .st316 {
+        opacity: .5;
+      }
+
+      .st317 {
+        opacity: .5;
+      }
+
+      .st318 {
+        opacity: .2;
+      }
+
+      .st319 {
+        opacity: .2;
+      }
+
+      .st320 {
+        opacity: .2;
+      }
+
+      .st321 {
+        opacity: .5;
+      }
+
+      .st322 {
+        opacity: .5;
+      }
+
+      .st323 {
+        opacity: .5;
+      }
+
+      .st324 {
+        opacity: .5;
+      }
+
+      .st325 {
+        opacity: .5;
+      }
+
+      .st326 {
+        opacity: .5;
+      }
+
+      .st327 {
+        opacity: .5;
+      }
+
+      .st328 {
+        opacity: .5;
+      }
+
+      .st329 {
+        opacity: .5;
+      }
+
+      .st330 {
+        opacity: .5;
+      }
+
+      .st331 {
+        opacity: .5;
+      }
+
+      .st332 {
+        opacity: .5;
+      }
+
+      .st333 {
+        opacity: .5;
+      }
+
+      .st334 {
+        opacity: .5;
+      }
+
+      .st335 {
+        opacity: .5;
+      }
+
+      .st336 {
+        opacity: .5;
+      }
+
+      .st337 {
+        opacity: .5;
+      }
+
+      .st338 {
+        opacity: .5;
+      }
+
+      .st339 {
+        opacity: .5;
+      }
+
+      .st340 {
+        opacity: .5;
+      }
+
+      .st341 {
+        opacity: .5;
+      }
+
+      .st342 {
+        opacity: .5;
+      }
+
+      .st343 {
+        opacity: .5;
+      }
+
+      .st344 {
+        opacity: .5;
+      }
+
+      .st345 {
+        opacity: .5;
+      }
+
+      .st346 {
+        opacity: .5;
+      }
+
+      .st347 {
+        opacity: .5;
+      }
+
+      .st348 {
+        opacity: .5;
+      }
+
+      .st349 {
+        opacity: .5;
+      }
+
+      .st350 {
+        opacity: .5;
+      }
+
+      .st351 {
+        opacity: .5;
+      }
+
+      .st352 {
+        opacity: .5;
+      }
+
+      .st353 {
+        opacity: .5;
+      }
+
+      .st354 {
+        opacity: .5;
+      }
+
+      .st355 {
+        opacity: .5;
+      }
+
+      .st356 {
+        opacity: .5;
+      }
+
+      .st357 {
+        opacity: .5;
+      }
+
+      .st358 {
+        opacity: .5;
+      }
+
+      .st359 {
+        opacity: .5;
+      }
+
+      .st360 {
+        opacity: .5;
+      }
+
+      .st361 {
+        opacity: .5;
+      }
+
+      .st362 {
+        opacity: .5;
+      }
+
+      .st363 {
+        opacity: .5;
+      }
+
+      .st364 {
+        opacity: .2;
+      }
+
+      .st365 {
+        opacity: .2;
+      }
+
+      .st366 {
+        opacity: .2;
+      }
+
+      .st367 {
+        opacity: .2;
+      }
+
+      .st368 {
+        opacity: .2;
+      }
+
+      .st369 {
+        opacity: .2;
+      }
+
+      .st370 {
+        opacity: .2;
+      }
+
+      .st371 {
+        opacity: .2;
+      }
+
+      .st372 {
+        opacity: .2;
+      }
+
+      .st373 {
+        opacity: .2;
+      }
+
+      .st374 {
+        opacity: .2;
+      }
+
+      .st375 {
+        opacity: .2;
+      }
+
+      .st376 {
+        opacity: .2;
+      }
+
+      .st377 {
+        opacity: .2;
+      }
+
+      .st378 {
+        opacity: .2;
+      }
+
+      .st379 {
+        opacity: .2;
+      }
+
+      .st380 {
+        opacity: .3;
+      }
+
+      .st381 {
+        opacity: .3;
+      }
+
+      .st382 {
+        opacity: .3;
+      }
+
+      .st383 {
+        opacity: .3;
+      }
+
+      .st384 {
+        opacity: .3;
+      }
+
+      .st385 {
+        opacity: 0;
+      }
+
+      .st385, .st386, .st387, .st388 {
+        fill: #a9cfef;
+      }
+
+      .st386 {
+        opacity: .1;
+      }
+
+      .st387 {
+        opacity: 0;
+      }
+
+      .st388 {
+        opacity: .2;
+      }
+
+      .st390 {
+        filter: url(#planetTexture);
+      }
+
+      .st391 {
+        fill: url(#radial-gradient);
+      }
+
+      .st392 {
+        fill: #0e1d76;
+      }
+
+      .st393 {
+        fill: #531368;
+      }
+
+      .st394 {
+        fill: #511767;
+      }
+    </style>
+    <filter id="noise0">
+      <feTurbulence baseFrequency="0.004123897847952321,0.0020619489239761604" numOctaves="4" result="noise" type="fractalNoise"/>
+      <feGaussianBlur result="blurred" stdDeviation="2.806434101657942"/>
+      <feColorMatrix in="blurred" result="colored" type="saturate" values="1.3"/>
+    </filter>
+    <filter id="noise1">
+      <feTurbulence baseFrequency="0.0031078001447021964,0.0015539000723510982" numOctaves="4" result="noise" type="fractalNoise"/>
+      <feGaussianBlur result="blurred" stdDeviation="4.7112601632252336"/>
+      <feColorMatrix in="blurred" result="colored" type="saturate" values="1.3"/>
+    </filter>
+    <filter id="noise2">
+      <feTurbulence baseFrequency="0.004482044675154612,0.002241022337577306" numOctaves="4" result="noise" type="fractalNoise"/>
+      <feGaussianBlur result="blurred" stdDeviation="4.185105278622359"/>
+      <feColorMatrix in="blurred" result="colored" type="saturate" values="1.3"/>
+    </filter>
+    <filter id="noise3">
+      <feTurbulence baseFrequency="0.003486962534952909,0.0017434812674764545" numOctaves="4" result="noise" type="fractalNoise"/>
+      <feGaussianBlur result="blurred" stdDeviation="2.9914608849212527"/>
+      <feColorMatrix in="blurred" result="colored" type="saturate" values="1.3"/>
+    </filter>
+    <filter id="planetTexture">
+      <feTurbulence baseFrequency="0.779756875988096" numOctaves="2" result="planetNoise" type="fractalNoise"/>
+      <feDisplacementMap in="SourceGraphic" in2="planetNoise" scale="10" xChannelSelector="R" yChannelSelector="G"/>
+      <feGaussianBlur stdDeviation="1"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="44.2" cy="424.9" fx="44.2" fy="424.9" r=".5" gradientTransform="translate(-6568.6 66893.4) scale(156.9 -156.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".3"/>
+      <stop offset=".4" stop-color="#2c3e8b" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#8d2a80"/>
+    </radialGradient>
+  </defs>
+  <rect class="st389" width="469" height="469"/>
+  <g class="st0">
+    <rect class="st392" width="469" height="469"/>
+  </g>
+  <g class="st2">
+    <rect class="st392" width="469" height="469"/>
+  </g>
+  <g class="st1">
+    <rect class="st393" width="469" height="469"/>
+  </g>
+  <g class="st3">
+    <rect class="st394" width="469" height="469"/>
+  </g>
+  <circle class="st248" cx="278.9" cy="255.8" r=".4"/>
+  <circle class="st272" cx="286.7" cy="83.6" r=".6"/>
+  <circle class="st153" cx="32.5" cy="184.4" r=".9"/>
+  <circle class="st42" cx="182.4" cy="332.1" r=".6"/>
+  <circle class="st17" cx="190.6" cy="198.4" r=".5"/>
+  <circle class="st175" cx="262.1" cy="373.3" r=".9"/>
+  <circle class="st242" cx="121" cy="393.5" r=".6"/>
+  <circle class="st234" cx="352.2" cy="56.5" r=".7"/>
+  <circle class="st127" cx=".1" cy="142" r=".3"/>
+  <circle class="st358" cx="195" cy="338.9" r=".6"/>
+  <circle class="st5" cx="97.6" cy="183.2" r=".7"/>
+  <circle class="st201" cx="195.5" cy="142.8" r=".8"/>
+  <circle class="st256" cx="228.5" cy="434.8" r=".8"/>
+  <path class="st68" d="M256.2,365.8c.5,0,.9.4.9.9s-.4.9-.9.9-.9-.4-.9-.9.4-.9.9-.9Z"/>
+  <circle class="st160" cx="268.4" cy="112.9" r=".9"/>
+  <circle class="st146" cx="147" cy="247.7" r=".3"/>
+  <circle class="st119" cx="425.5" cy="270.5" r=".8"/>
+  <circle class="st91" cx="243.4" cy="463" r="1"/>
+  <circle class="st11" cx="325.8" cy="9.6" r=".7"/>
+  <circle class="st121" cx="283.5" cy="137.5" r=".4"/>
+  <circle class="st363" cx="425.9" cy="353.8" r=".9"/>
+  <circle class="st367" cx="311.1" cy="104.4" r=".4"/>
+  <circle class="st19" cx="204.6" cy="309.5" r=".8"/>
+  <circle class="st333" cx="170.9" cy="297.9" r=".8"/>
+  <circle class="st329" cx="16.5" cy="348.9" r=".4"/>
+  <circle class="st373" cx="213.3" cy="286.8" r=".8"/>
+  <circle class="st371" cx="62.7" cy="322" r=".8"/>
+  <circle class="st89" cx="402.8" cy="282" r="1"/>
+  <circle class="st317" cx="40.7" cy="454.3" r=".9"/>
+  <circle class="st70" cx="38.6" cy="128.2" r=".8"/>
+  <circle class="st84" cx="417.3" cy="325.7" r=".4"/>
+  <circle class="st307" cx="48.3" cy="152.9" r="1"/>
+  <circle class="st286" cx="267.7" cy="60.1" r=".6"/>
+  <circle class="st377" cx="464.5" cy="170.9" r=".8"/>
+  <circle class="st100" cx="397.8" cy="106.8" r=".4"/>
+  <circle class="st158" cx="146.4" cy="42.6" r=".4"/>
+  <circle class="st6" cx="323.6" cy="381.8" r=".7"/>
+  <circle class="st14" cx="194.3" cy="119" r=".8"/>
+  <circle class="st300" cx="185.1" cy="273.7" r=".5"/>
+  <circle class="st43" cx="284" cy="32.1" r=".9"/>
+  <circle class="st66" cx="141.6" cy="359.4" r=".5"/>
+  <circle class="st125" cx="283.4" cy="396.1" r="1"/>
+  <circle class="st199" cx="353" cy="415" r=".9"/>
+  <circle class="st228" cx="384" cy="191.3" r=".6"/>
+  <circle class="st379" cx="169.7" cy="115.3" r=".8"/>
+  <circle class="st202" cx="267.9" cy="311.1" r=".6"/>
+  <circle class="st277" cx="213.2" cy="240.8" r=".4"/>
+  <circle class="st76" cx="289.1" cy="59.4" r=".7"/>
+  <circle class="st220" cx="91.7" cy="132.7" r="1"/>
+  <circle class="st64" cx="20" cy="196" r=".6"/>
+  <circle class="st173" cx="421" cy="315.4" r=".8"/>
+  <circle class="st4" cx="272.9" cy="338.9" r=".6"/>
+  <circle class="st98" cx="304" cy="72.2" r=".6"/>
+  <circle class="st222" cx="3.8" cy="208.8" r=".8"/>
+  <circle class="st255" cx="378.8" cy="387" r=".3"/>
+  <circle class="st232" cx="15.2" cy="425.1" r=".5"/>
+  <circle class="st132" cx="182.3" cy="231.5" r=".7"/>
+  <circle class="st342" cx="400.7" cy="24.1" r=".7"/>
+  <circle class="st331" cx="78.3" cy="460.3" r=".7"/>
+  <circle class="st313" cx="419.5" cy="199.7" r=".5"/>
+  <circle class="st182" cx="258.4" cy="395.9" r=".3"/>
+  <circle class="st271" cx="71.6" cy="61.7" r=".4"/>
+  <path class="st139" d="M255.6,316.2c.3,0,.6.3.6.6s-.3.6-.6.6-.6-.3-.6-.6.3-.6.6-.6Z"/>
+  <circle class="st335" cx="319.7" cy="284.4" r=".3"/>
+  <circle class="st337" cx="311.6" cy="61.9" r=".8"/>
+  <circle class="st194" cx="365.5" cy="19.9" r=".6"/>
+  <circle class="st344" cx="1.4" cy="139.7" r=".4"/>
+  <circle class="st310" cx="444.4" cy="224.6" r="1"/>
+  <circle class="st38" cx="337.1" cy="424.7" r=".6"/>
+  <circle class="st332" cx="338.2" cy="138.8" r=".5"/>
+  <circle class="st140" cx="6.1" cy="148.1" r="1"/>
+  <circle class="st99" cx="188.8" cy="63.7" r=".7"/>
+  <circle class="st174" cx="158.1" cy="69.1" r=".7"/>
+  <circle class="st141" cx="75.6" cy="176" r=".6"/>
+  <circle class="st79" cx="429.2" cy="173.8" r=".7"/>
+  <circle class="st108" cx="104.1" cy="282.3" r=".5"/>
+  <circle class="st48" cx="313.6" cy="395.4" r=".9"/>
+  <circle class="st334" cx="432.7" cy="456.3" r="1"/>
+  <circle class="st280" cx="270.7" cy="332.2" r=".9"/>
+  <circle class="st218" cx="425.2" cy="257.4" r=".5"/>
+  <circle class="st136" cx="11.1" cy="168" r=".4"/>
+  <circle class="st369" cx="235.5" cy="381.7" r=".9"/>
+  <circle class="st113" cx="314.2" cy="280.2" r=".8"/>
+  <circle class="st359" cx="427" cy="51.7" r=".4"/>
+  <circle class="st195" cx="360.4" cy="259.4" r=".4"/>
+  <circle class="st264" cx="360.5" cy="449.7" r=".7"/>
+  <circle class="st238" cx="16.4" cy="245.8" r=".6"/>
+  <circle class="st289" cx="399.5" cy="269.3" r=".6"/>
+  <circle class="st32" cx="186.1" cy="359.8" r=".9"/>
+  <circle class="st236" cx="347.9" cy="213.5" r=".4"/>
+  <circle class="st165" cx="134.2" cy="287" r=".9"/>
+  <circle class="st215" cx="144.2" cy="454.7" r=".8"/>
+  <circle class="st130" cx="180.7" cy="126.4" r=".5"/>
+  <circle class="st167" cx="139.7" cy="447.8" r=".6"/>
+  <circle class="st82" cx="233.4" cy="141.1" r=".4"/>
+  <circle class="st150" cx="163.6" cy="112" r=".4"/>
+  <circle class="st245" cx="234.8" cy="176.8" r="1"/>
+  <circle class="st126" cx="399.1" cy="180.8" r=".8"/>
+  <circle class="st176" cx="342.4" cy="247.3" r=".9"/>
+  <circle class="st55" cx="224.3" cy="310.6" r="1"/>
+  <circle class="st235" cx="111.7" cy="16" r=".7"/>
+  <circle class="st204" cx="341.3" cy="317.9" r=".9"/>
+  <circle class="st282" cx="389" cy="424.9" r=".7"/>
+  <circle class="st65" cx="50.3" cy="130.7" r="1"/>
+  <circle class="st305" cx="221.9" cy="85.7" r=".5"/>
+  <circle class="st46" cx="98.3" cy="5.9" r=".8"/>
+  <circle class="st295" cx="173.4" cy="133.7" r=".7"/>
+  <circle class="st250" cx="37.4" cy="355.8" r=".9"/>
+  <circle class="st275" cx="35.1" cy="6.3" r=".7"/>
+  <circle class="st315" cx="365.1" cy="293.9" r=".4"/>
+  <circle class="st210" cx="439.1" cy="404.4" r=".5"/>
+  <circle class="st52" cx="120" cy="232.5" r=".7"/>
+  <circle class="st124" cx="406.4" cy="380.1" r=".7"/>
+  <circle class="st354" cx="170.3" cy="261.1" r="1"/>
+  <circle class="st190" cx="233.2" cy="1.9" r=".5"/>
+  <circle class="st229" cx="288.2" cy="433.4" r=".5"/>
+  <circle class="st12" cx="351.4" cy="82.9" r=".5"/>
+  <circle class="st180" cx="381.4" cy="30.6" r=".8"/>
+  <circle class="st181" cx="357.6" cy="149.2" r=".4"/>
+  <circle class="st54" cx="31.9" cy="403.6" r=".7"/>
+  <circle class="st30" cx="245.4" cy="147.7" r=".5"/>
+  <circle class="st26" cx="146.8" cy="329.2" r=".8"/>
+  <circle class="st296" cx="155.8" cy="435.8" r=".8"/>
+  <circle class="st233" cx="226.3" cy="29.4" r=".7"/>
+  <circle class="st62" cx="295.1" cy="397.2" r=".6"/>
+  <circle class="st196" cx="339.4" cy="48.6" r=".7"/>
+  <circle class="st309" cx="69.6" cy="328.4" r=".7"/>
+  <circle class="st22" cx="145.8" cy="194.9" r=".4"/>
+  <circle class="st31" cx="251.3" cy="450.5" r=".7"/>
+  <circle class="st339" cx="265.8" cy="129.2" r=".6"/>
+  <circle class="st172" cx="423.8" cy="332.6" r=".9"/>
+  <circle class="st162" cx="43.2" cy="112.1" r=".4"/>
+  <circle class="st321" cx="280.9" cy="9.2" r=".7"/>
+  <circle class="st254" cx="186.3" cy="406.8" r=".7"/>
+  <circle class="st253" cx="143.8" cy="266.7" r=".9"/>
+  <circle class="st56" cx="163.1" cy="449.7" r=".5"/>
+  <circle class="st226" cx="109.1" cy="210.9" r=".5"/>
+  <circle class="st223" cx="34.1" cy="186.5" r=".4"/>
+  <circle class="st347" cx="347.4" cy="269.8" r="1"/>
+  <circle class="st117" cx="25.4" cy="223.8" r=".5"/>
+  <circle class="st25" cx="231.8" cy="279.8" r=".7"/>
+  <circle class="st269" cx="281" cy="116.8" r=".4"/>
+  <circle class="st240" cx="239.5" cy="295.7" r=".7"/>
+  <circle class="st7" cx="342.5" cy="339.2" r=".5"/>
+  <circle class="st69" cx="12.5" cy="374.3" r=".8"/>
+  <circle class="st270" cx="205.1" cy="180.7" r=".4"/>
+  <circle class="st40" cx="190.6" cy="79.8" r="1"/>
+  <circle class="st10" cx="408.6" cy="190.6" r=".4"/>
+  <circle class="st184" cx="194.2" cy="186.1" r=".6"/>
+  <circle class="st375" cx="432" cy="199.3" r="1"/>
+  <circle class="st227" cx="92" cy="420.5" r=".5"/>
+  <circle class="st265" cx="56.7" cy="373.7" r=".5"/>
+  <circle class="st75" cx="204.3" cy="97.1" r=".6"/>
+  <circle class="st107" cx="212.7" cy="119.8" r=".9"/>
+  <circle class="st41" cx="126.2" cy="66.2" r=".6"/>
+  <circle class="st350" cx="368.4" cy="320.8" r=".3"/>
+  <circle class="st304" cx="373.4" cy="29.9" r="1"/>
+  <circle class="st340" cx="418.4" cy="154.6" r=".6"/>
+  <circle class="st71" cx="148.6" cy="413.3" r="1"/>
+  <circle class="st103" cx="426.1" cy="77.4" r=".8"/>
+  <circle class="st297" cx="16.6" cy="267.9" r=".8" transform="translate(-251.5 281.6) rotate(-89.4)"/>
+  <circle class="st288" cx="290.6" cy="80" r=".4"/>
+  <circle class="st298" cx="134.2" cy="290.4" r=".9"/>
+  <circle class="st188" cx="118.4" cy="111.1" r=".3"/>
+  <circle class="st51" cx="61.7" cy="404.4" r="1"/>
+  <circle class="st135" cx="375.5" cy="121.5" r="1"/>
+  <circle class="st366" cx="385" cy="295.2" r=".9"/>
+  <circle class="st211" cx="231.8" cy="418.7" r=".5"/>
+  <circle class="st138" cx="70.8" cy="132.3" r=".6"/>
+  <circle class="st16" cx="298.6" cy="285" r=".4"/>
+  <circle class="st205" cx="69.3" cy="306.7" r=".4"/>
+  <circle class="st311" cx="249.5" cy="456.1" r=".5"/>
+  <circle class="st338" cx="126.2" cy="298" r="1"/>
+  <circle class="st239" cx="437" cy="229.4" r=".5"/>
+  <circle class="st120" cx="348.8" cy="173.4" r=".5"/>
+  <circle class="st380" cx="214.3" cy="363.7" r=".7"/>
+  <circle class="st109" cx="304.8" cy="308" r=".4"/>
+  <circle class="st249" cx="447.7" cy="21.1" r=".8"/>
+  <circle class="st134" cx="202.1" cy="358.9" r=".8"/>
+  <circle class="st77" cx="115.3" cy="167.4" r=".5"/>
+  <circle class="st97" cx="171.4" cy="179.5" r=".4"/>
+  <circle class="st352" cx="7.3" cy="300.8" r=".8"/>
+  <circle class="st93" cx="139.5" cy="437.2" r=".8"/>
+  <circle class="st171" cx="404.5" cy="431.9" r=".6"/>
+  <circle class="st18" cx="97.1" cy="355.5" r="1"/>
+  <circle class="st224" cx="163.4" cy="39.8" r=".9"/>
+  <circle class="st149" cx="336.3" cy="291.2" r="1"/>
+  <circle class="st179" cx="76" cy="38.8" r=".5"/>
+  <circle class="st314" cx="116.9" cy="119.5" r="1"/>
+  <circle class="st230" cx="345.9" cy="417.3" r=".8"/>
+  <circle class="st341" cx="373.9" cy="328.5" r=".9"/>
+  <circle class="st111" cx="277.1" cy="150.5" r=".7"/>
+  <circle class="st78" cx="201.5" cy="24.7" r=".6"/>
+  <circle class="st267" cx="320.1" cy="417.8" r=".4"/>
+  <circle class="st243" cx="209.5" cy="194.9" r=".6"/>
+  <circle class="st73" cx="118.1" cy="71.9" r=".6"/>
+  <circle class="st144" cx="433.7" cy="311.1" r=".7"/>
+  <circle class="st200" cx="140.3" cy="457.5" r=".5"/>
+  <circle class="st129" cx="216.6" cy="80.6" r=".4"/>
+  <circle class="st343" cx="387" cy="448.5" r=".8"/>
+  <circle class="st116" cx="17.1" cy="319.7" r=".4"/>
+  <circle class="st49" cx="442.2" cy="374" r=".9"/>
+  <circle class="st370" cx="289.9" cy="409.7" r=".4"/>
+  <circle class="st87" cx="10.9" cy="2.1" r=".6"/>
+  <circle class="st58" cx="273.4" cy="313.8" r=".4"/>
+  <circle class="st29" cx="275.8" cy="263.4" r=".3"/>
+  <circle class="st348" cx="251.1" cy="321.2" r=".9"/>
+  <circle class="st384" cx="162.8" cy="115.4" r=".7"/>
+  <circle class="st185" cx="462.1" cy="63.4" r="1"/>
+  <circle class="st262" cx="329.8" cy="220.5" r=".4"/>
+  <circle class="st27" cx="110.4" cy="104.4" r=".6"/>
+  <circle class="st37" cx="194.6" cy="445.1" r=".7"/>
+  <circle class="st72" cx="389.9" cy="73.6" r=".6"/>
+  <circle class="st86" cx="338.8" cy="24.1" r=".9"/>
+  <circle class="st53" cx="44.6" cy="200.5" r=".6"/>
+  <circle class="st306" cx="86.1" cy="345.9" r=".5"/>
+  <circle class="st283" cx="244.8" cy="114.3" r=".9"/>
+  <circle class="st115" cx="110.5" cy="205" r=".7"/>
+  <circle class="st213" cx="457.8" cy="29" r=".7"/>
+  <circle class="st374" cx="352.3" cy="287.6" r=".6"/>
+  <circle class="st323" cx="248.5" cy="157.8" r=".9"/>
+  <circle class="st308" cx="461.7" cy="344.1" r=".9"/>
+  <circle class="st142" cx="231.3" cy="427.7" r=".3"/>
+  <circle class="st20" cx="400.3" cy="410.4" r=".6"/>
+  <circle class="st152" cx="425.5" cy="120.2" r=".7"/>
+  <circle class="st95" cx="23.4" cy="99.9" r=".5"/>
+  <circle class="st294" cx="80" cy="134.9" r=".5"/>
+  <circle class="st101" cx="23.6" cy="380.4" r=".6"/>
+  <circle class="st361" cx="221.7" cy="40" r=".4"/>
+  <circle class="st328" cx="130.5" cy="390.9" r=".8"/>
+  <circle class="st191" cx="208.9" cy="433.2" r=".8"/>
+  <circle class="st155" cx="271" cy="19.6" r=".6"/>
+  <circle class="st382" cx="235.5" cy="461.8" r=".8"/>
+  <circle class="st105" cx="67.3" cy="402.7" r=".4"/>
+  <circle class="st187" cx="88.3" cy="46.4" r=".6"/>
+  <circle class="st281" cx="134.3" cy="293.5" r=".3"/>
+  <circle class="st279" cx="254.7" cy="400.9" r=".3"/>
+  <circle class="st177" cx="242.5" cy="377.6" r=".8"/>
+  <circle class="st164" cx="11.5" cy="418.5" r=".4"/>
+  <circle class="st273" cx="114.4" cy="224.9" r="1"/>
+  <circle class="st110" cx="231.4" cy="319.5" r=".4"/>
+  <circle class="st21" cx="125.2" cy="234.7" r=".3"/>
+  <circle class="st60" cx="33.9" cy="224.8" r=".4"/>
+  <circle class="st104" cx="27.8" cy="265.8" r=".5"/>
+  <circle class="st9" cx="206.8" cy="283.2" r=".4"/>
+  <circle class="st212" cx="175" cy="371.9" r=".3"/>
+  <circle class="st24" cx="77.3" cy="87.7" r=".5"/>
+  <circle class="st274" cx="85" cy="158.9" r="1"/>
+  <circle class="st88" cx="36.7" cy="108.6" r=".5"/>
+  <circle class="st189" cx="162.2" cy="213.7" r=".9"/>
+  <circle class="st312" cx="95.5" cy="430.1" r=".8"/>
+  <circle class="st23" cx="394.4" cy="102" r=".8"/>
+  <circle class="st237" cx="229.6" cy="459.9" r=".9"/>
+  <circle class="st148" cx="292.4" cy="88.1" r=".7"/>
+  <circle class="st376" cx="148.4" cy="140.1" r=".5"/>
+  <circle class="st102" cx="413.1" cy="182" r=".3"/>
+  <circle class="st156" cx="243.9" cy="230.4" r=".8"/>
+  <circle class="st59" cx="276.6" cy="48.7" r=".3"/>
+  <circle class="st45" cx="55.5" cy="77" r=".7"/>
+  <circle class="st198" cx="231.7" cy="275.7" r=".7"/>
+  <circle class="st368" cx="254.7" cy="77.8" r=".6"/>
+  <circle class="st154" cx="165.4" cy="39.3" r=".3"/>
+  <circle class="st145" cx="46.7" cy="2.1" r=".9"/>
+  <circle class="st203" cx="171.4" cy="328.6" r=".7"/>
+  <circle class="st353" cx="88.7" cy="330.6" r=".7"/>
+  <circle class="st287" cx="261" cy="335.4" r=".6"/>
+  <circle class="st159" cx="246.8" cy="390.1" r=".5"/>
+  <circle class="st301" cx="200.8" cy="22.8" r=".9"/>
+  <circle class="st252" cx="75.9" cy="304.2" r=".4"/>
+  <circle class="st365" cx="161.9" cy="322.8" r=".9"/>
+  <circle class="st241" cx="133.5" cy="56.4" r=".8"/>
+  <circle class="st114" cx="180.9" cy="289.9" r=".5"/>
+  <circle class="st225" cx="85.2" cy="314.6" r=".9"/>
+  <circle class="st362" cx="353.7" cy="446.4" r="1"/>
+  <circle class="st214" cx="81.9" cy="456.7" r=".9"/>
+  <circle class="st336" cx="153.5" cy="312" r=".4"/>
+  <circle class="st123" cx="304.4" cy="383.4" r=".4"/>
+  <circle class="st143" cx="175.3" cy="294.7" r=".8"/>
+  <circle class="st216" cx="448.4" cy="443.9" r=".8"/>
+  <circle class="st268" cx="457.2" cy="323.5" r=".6"/>
+  <circle class="st258" cx="390" cy="35.8" r=".4"/>
+  <circle class="st128" cx="406.9" cy="31.8" r="1"/>
+  <circle class="st207" cx="70.2" cy="240.9" r=".4"/>
+  <circle class="st193" cx="89.5" cy="72.7" r="1"/>
+  <circle class="st293" cx="383.2" cy="325.9" r=".6"/>
+  <circle class="st316" cx="273.5" cy="281.9" r=".9"/>
+  <circle class="st74" cx="446.2" cy="107.8" r=".6"/>
+  <circle class="st122" cx="444.4" cy="201.2" r=".4"/>
+  <circle class="st246" cx="371.1" cy="451.4" r="1"/>
+  <circle class="st112" cx="95.4" cy="28.7" r=".5"/>
+  <circle class="st80" cx="257.6" cy="313" r=".4"/>
+  <circle class="st219" cx="388.7" cy="106.2" r=".7"/>
+  <circle class="st349" cx="393.8" cy="26.2" r=".3"/>
+  <circle class="st186" cx="89" cy="256.2" r=".8"/>
+  <circle class="st326" cx="346.4" cy="245.5" r=".3"/>
+  <circle class="st183" cx="359.5" cy="285.7" r=".7"/>
+  <circle class="st319" cx="368.6" cy="190.6" r=".9"/>
+  <circle class="st92" cx="291" cy="352.3" r=".7"/>
+  <circle class="st276" cx="80.7" cy="341.9" r=".8"/>
+  <circle class="st168" cx="111.3" cy="456.4" r=".8"/>
+  <circle class="st133" cx="131.5" cy="400.9" r=".7"/>
+  <circle class="st357" cx="20.3" cy="105.9" r="1"/>
+  <circle class="st118" cx="94.1" cy="319.3" r=".4"/>
+  <circle class="st35" cx="204.9" cy="276.8" r=".9"/>
+  <circle class="st278" cx="277.2" cy="2.5" r=".5"/>
+  <circle class="st197" cx="249.8" cy="397.1" r=".5"/>
+  <circle class="st383" cx="439.9" cy="237.3" r=".8"/>
+  <circle class="st259" cx="284" cy="48.5" r=".3"/>
+  <circle class="st170" cx="313.7" cy="275.9" r=".7"/>
+  <circle class="st318" cx="359.9" cy="81.3" r=".8"/>
+  <circle class="st83" cx="368.8" cy="386.8" r=".9"/>
+  <circle class="st324" cx="329.9" cy="198.4" r=".4"/>
+  <circle class="st355" cx="266.7" cy="171.1" r=".8"/>
+  <circle class="st346" cx="314.8" cy="75.7" r=".5"/>
+  <circle class="st33" cx="80.9" cy="430.6" r=".3"/>
+  <circle class="st90" cx="414.3" cy="449" r=".8"/>
+  <circle class="st325" cx="113.3" cy="347.3" r=".9"/>
+  <circle class="st137" cx="195.1" cy="409.4" r=".8"/>
+  <circle class="st39" cx="393.6" cy="100.8" r=".6"/>
+  <circle class="st81" cx="115.6" cy="165.8" r=".5"/>
+  <circle class="st192" cx="93.2" cy="41.8" r=".7"/>
+  <circle class="st290" cx="412.6" cy="371.4" r=".4"/>
+  <circle class="st330" cx="53" cy="118.7" r=".6"/>
+  <circle class="st63" cx="215.3" cy="180.1" r=".6"/>
+  <circle class="st291" cx="355.4" cy="78.8" r=".8"/>
+  <circle class="st356" cx="61.5" cy="18.5" r=".4"/>
+  <circle class="st206" cx="89.1" cy="460.9" r=".8"/>
+  <circle class="st36" cx="163.7" cy="140.6" r=".9"/>
+  <circle class="st221" cx="69.2" cy="260.5" r=".6"/>
+  <circle class="st151" cx="418.2" cy="229.9" r=".6"/>
+  <circle class="st302" cx="409" cy="217" r=".6"/>
+  <circle class="st303" cx="389.8" cy="78.5" r=".3"/>
+  <circle class="st292" cx="376.6" cy="233.1" r=".6"/>
+  <circle class="st44" cx="388.8" cy="25.7" r=".6"/>
+  <circle class="st169" cx="200.7" cy="292.2" r=".7"/>
+  <circle class="st260" cx="13.3" cy="129.6" r=".9"/>
+  <circle class="st257" cx="355.9" cy="289.2" r=".8"/>
+  <circle class="st67" cx="109.6" cy="313.5" r=".6"/>
+  <circle class="st15" cx="387.7" cy="80.9" r=".8"/>
+  <circle class="st266" cx="317" cy="34.1" r=".8"/>
+  <circle class="st247" cx="148.4" cy="225.8" r=".7"/>
+  <circle class="st47" cx="98.5" cy="420.6" r=".4"/>
+  <circle class="st57" cx="82" cy="355.8" r=".7"/>
+  <circle class="st244" cx="398.6" cy="158.1" r=".7"/>
+  <circle class="st85" cx="233.3" cy="111.2" r=".5"/>
+  <circle class="st261" cx="216.5" cy="271.3" r=".6"/>
+  <circle class="st263" cx="61.3" cy="286.9" r=".6"/>
+  <circle class="st351" cx="187.7" cy="54.6" r=".7"/>
+  <circle class="st163" cx="427.8" cy="232.6" r=".4"/>
+  <circle class="st61" cx="12.4" cy="189.1" r=".5"/>
+  <circle class="st364" cx="234.7" cy="465" r=".5"/>
+  <circle class="st157" cx="263.8" cy="351.9" r=".9"/>
+  <circle class="st378" cx="468" cy="127.4" r=".6"/>
+  <circle class="st231" cx="100.2" cy="67.5" r=".7"/>
+  <circle class="st13" cx="56.7" cy="416.6" r="1"/>
+  <circle class="st217" cx="42.7" cy="144" r=".6"/>
+  <circle class="st147" cx="59.4" cy="256.6" r=".8"/>
+  <circle class="st96" cx="398.4" cy="345.1" r=".8"/>
+  <circle class="st251" cx="106.4" cy="102.8" r=".8"/>
+  <circle class="st381" cx="346.9" cy="99.9" r=".3"/>
+  <circle class="st322" cx="378.4" cy="375.4" r=".9"/>
+  <circle class="st178" cx="461" cy="13.3" r=".3"/>
+  <circle class="st131" cx="43.2" cy="101.9" r=".8"/>
+  <circle class="st360" cx="442.7" cy="394.2" r=".4"/>
+  <circle class="st8" cx="73.4" cy="266.5" r=".6"/>
+  <circle class="st161" cx="165.4" cy="376" r=".8"/>
+  <circle class="st94" cx="143.8" cy="283.7" r=".9"/>
+  <circle class="st209" cx="303.7" cy="120.5" r="1"/>
+  <circle class="st166" cx="374.9" cy="55.7" r=".3"/>
+  <circle class="st345" cx="264.8" cy="62.4" r=".5"/>
+  <circle class="st284" cx="252" cy="77.6" r=".6"/>
+  <circle class="st208" cx="339.9" cy="466" r=".6"/>
+  <circle class="st299" cx="292.9" cy="353.4" r=".9"/>
+  <circle class="st106" cx="386" cy="88.8" r=".3"/>
+  <circle class="st28" cx="83.3" cy="126.4" r=".4"/>
+  <circle class="st320" cx="417.3" cy="162.6" r=".8"/>
+  <circle class="st34" cx="131.6" cy="188.6" r=".6"/>
+  <circle class="st372" cx="327.3" cy="49" r=".9"/>
+  <circle class="st50" cx="248.9" cy="429" r=".4"/>
+  <circle class="st327" cx="72.1" cy="341.6" r=".6"/>
+  <circle class="st285" cx="82.2" cy="359.5" r=".4"/>
+  <circle class="st385" cx="415.7" cy="420.6" r="72.5">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="2.618279187940061s" fill="remove" repeatCount="indefinite" restart="always" values="0.04;0.02;0.04"/>
+  </circle>
+  <circle class="st387" cx="415.7" cy="420.6" r="48.4">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="2.1086072244215757s" fill="remove" repeatCount="indefinite" restart="always" values="0.07;0.035;0.07"/>
+  </circle>
+  <circle class="st386" cx="415.7" cy="420.6" r="24.2">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="3.305073614930734s" fill="remove" repeatCount="indefinite" restart="always" values="0.12;0.06;0.12"/>
+  </circle>
+  <circle class="st388" cx="415.7" cy="420.6" r="14.5">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="2.1813696876633912s" fill="remove" repeatCount="indefinite" restart="always" values="0.2;0.1;0.2"/>
+  </circle>
+  <circle class="st385" cx="101.3" cy="76.2" r="36.7">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="4.904780474258587s" fill="remove" repeatCount="indefinite" restart="always" values="0.04;0.02;0.04"/>
+  </circle>
+  <circle class="st387" cx="101.3" cy="76.2" r="24.4">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="4.053511029109359s" fill="remove" repeatCount="indefinite" restart="always" values="0.07;0.035;0.07"/>
+  </circle>
+  <circle class="st386" cx="101.3" cy="76.2" r="12.2">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="3.1386886928230524s" fill="remove" repeatCount="indefinite" restart="always" values="0.12;0.06;0.12"/>
+  </circle>
+  <circle class="st386" cx="434.4" cy="148.2" r="22.3">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="3.4656368722207844s" fill="remove" repeatCount="indefinite" restart="always" values="0.12;0.06;0.12"/>
+  </circle>
+  <circle class="st388" cx="434.4" cy="148.2" r="13.4">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="2.1560888807289302s" fill="remove" repeatCount="indefinite" restart="always" values="0.2;0.1;0.2"/>
+  </circle>
+  <circle class="st385" cx="225.5" cy="334.9" r="67.5">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="3.9794202724006027s" fill="remove" repeatCount="indefinite" restart="always" values="0.04;0.02;0.04"/>
+  </circle>
+  <circle class="st387" cx="225.5" cy="334.9" r="45">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="4.412387948017567s" fill="remove" repeatCount="indefinite" restart="always" values="0.07;0.035;0.07"/>
+  </circle>
+  <circle class="st386" cx="225.5" cy="334.9" r="22.5">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="3.504087254172191s" fill="remove" repeatCount="indefinite" restart="always" values="0.12;0.06;0.12"/>
+  </circle>
+  <circle class="st388" cx="225.5" cy="334.9" r="13.5">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="2.5953584511298686s" fill="remove" repeatCount="indefinite" restart="always" values="0.2;0.1;0.2"/>
+  </circle>
+  <circle class="st386" cx="267.9" cy="25.9" r="20.2" transform="translate(197.8 285.7) rotate(-80.4)">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="3.923747514374554s" fill="remove" repeatCount="indefinite" restart="always" values="0.12;0.06;0.12"/>
+  </circle>
+  <circle class="st388" cx="267.9" cy="25.9" r="12.1">
+    <animate accumulate="none" additive="replace" attributeName="opacity" calcMode="linear" dur="3.959569718455896s" fill="remove" repeatCount="indefinite" restart="always" values="0.2;0.1;0.2"/>
+  </circle>
+  <g class="st390">
+    <circle class="st391" cx="372.1" cy="244.4" r="78.4"/>
+  </g>
+</svg>
